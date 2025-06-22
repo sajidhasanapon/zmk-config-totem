@@ -1,6 +1,6 @@
 layout: {zmk_keyboard: totem}
 layers:
-  BASE: [B, L, C, D, V, J, F, O, U, BSPC, N, R, S, T, G, Y, H, E, A, I, LSHFT, X, Q, W, M, Z, K, P, ',', ., /, RET, DEL, NAVI, LCMD, SPACE, SYM, BSPC]
+  BASE: [B, L, C, D, V, J, F, O, U, BSPC, N, R, S, T, G, Y, H, E, A, I, LSHFT, X, Q, W, M, Z, K, P, ',', ., /, RET, LALT, NAVI, LCMD, SPACE, SYM, BSPC]
   NAVI:
   - ESC
   - BT CLR
